@@ -1,0 +1,81 @@
+Abstract 
+In recent years cloud computing has gained a 
+momentum and is transforming the internet 
+computing infrastructure. Also the mobile 
+applications and mobile devices are developing 
+rapidly. Cloud computing is anticipated to bring an 
+innovation in mobile computing, where the mobile 
+devices can use clouds for data processing, storage 
+and other intensive operations. Already there are 
+some mobile cloud applications for example 
+Google’s Map, Gmail for iPhone and Cisco’s 
+WebEx on iPad, however these applications are 
+using the Software as a Service model. In this 
+paper we introduce state-of-the-art Mobile Cloud 
+Computing and its implementation methods. We 
+also investigate some critical issues to be solved 
+and point-out further future research directions. 
+Keywords: cloud computing; mobile cloud 
+computing; mobile devices; mobile applications; 
+security issues. 
+1 Introduction 
+The IT industry is always full of a never ending 
+buzz, as from the very beginning since 1946 when 
+the first computer was invented and till now the 
+technology has revolutionized many times. 
+Researchers foreseen at that time, mainframe 
+computer to be the future of computing, when 
+large scale machines and mainframe computers 
+were used to perform different tasks and 
+applications. Nowadays we do the same tasks but 
+in a much cheaper and portable fashion – using 
+desktop computer and servers tied together to 
+create a so called Cloud Computing System. Cloud 
+computing [1-3] is now the hottest research area in 
+IT industry. Cloud computing provides resources 
+and computing infrastructure on demand basis to 
+consumers. The consumers can use applications 
+and services on the clouds through internet. 
+Nowadays cloud computing is not only limited to 
+the personal computer, it also an influence and 
+intense impact on the mobile technology. 
+Electronic devices like, smart phones, tablets, 
+netbook and cloud computing resources are 
+converging in a new rapid emerging field of 
+Mobile Cloud Computing (MCC). The demand for 
+the mobile applications is also increasing which 
+require more resources to be provided to make user 
+experience more better. In the cloud platform 
+resources for example Google AppEngine, 
+Amazon EC2 and Microsoft Azure can see mobile 
+cloud computing as new paradigm for mobile 
+applications. 
+Mobile cloud computing is defined as extension of 
+cloud computing with a new ad-hoc infrastructure 
+based on a mobile device [4]. In scenario of mobile 
+cloud computing there are two viewpoints. One is 
+a simple viewpoint and other is mobile device 
+viewpoint. Simple viewpoint refers that both data 
+storage and data processing is carried outside the 
+mobile devices. Cloud resources are utilized for 
+processing and storage purpose. The advantage of 
+this concept is that mobile cloud computing 
+applications are not constrained to a certain kind of 
+mobile devices or operation systems. Also no need 
+to worry for the storage capacity and computation 
+speed limitations. While the mobile device view 
+point refers that both data storage and data 
+processing is done in the mobile device. The 
+reason is that nowadays mobile devices (smart 
+phones, tablets etc) are more intelligent and highly 
+developed. The advantage of such viewpoint is to 
+provide user an ownership (to store and maintain 
+data on personal mobile device). 
+This section started with some introductory 
+remarks to cloud computing and mobile cloud 
+computing. The rest of the paper is organized as 
+follows. Section 2 describe the concept of mobile 
+cloud computing and provide a brief explanation 
+that why it is needed. In section 3, two mobile 
+cloud computing solutions i.e. general purpose 
+___________________________________ mobile cloud computing and application specific 

@@ -1,0 +1,76 @@
+Abstract. Cloud computing has evolved to emerge the most topical IT paradigm in recent times. Cloud computing is rapidly 
+transforming the IT landscape. On a pay-as-you-use basis, cloud consumers can access resources, applications and 
+infrastructure provided by cloud providers. Such access could be in form of applications already deployed by cloud providers 
+for use by the cloud users. It could be in form of the capability to develop and deploy user applications using services of a 
+cloud provider. In addition, massive storage infrastructure is available for database and data supplied by the user. The cloud 
+has several unique architectures and many more are still evolving. The primary ones are the SaaS, PaaS and the IaaS that can 
+be deployed on private, public, community and hybrid clouds. This paper examines present developments in the cloud 
+computing architecture and presents guidance for additional research. Papers published in journals, conferences, white papers 
+were analyzed. The objective of this present work is to identify, examine and explain the current trends and development in 
+cloud computing architecture. However, only 13% of the papers examined discussed Others-as-a-Service, while only 26% of 
+the papers reviewed considered issues relating to the major actors involved in cloud computing. This will beneficial to cloud 
+providers, users, and researchers alike 
+Index Terms – Cloud Computing, architecture, PaaS, SaaS, IaaS.
+I. INTRODUCTION
+LOUD computing is a model for enabling 
+universal, on-demand and convenient network
+access to a shared pool of configurable computing 
+resources (e.g., networks, servers, storage, applications, 
+and services) that can be rapidly provisioned and released 
+with minimal management effort or service provider 
+interaction” [1]. Cloud computing can be seen as network␂enabled services that provide scalable, QoS guaranteed 
+services on demand that can be accessed over the Internet 
+[2]. Cloud computing allows for sharing of resources over 
+the Internet. These resources are shared using 
+infrastructure provided by a cloud service provider (CSP). 
+The cloud consumer accesses the resources, which are 
+scalable and ubiquitous, on-demand as–you–use and pay–
+as–you–go basis. Cloud computing also enables a level of 
+abstraction between the required computing resource and 
+the underlying architecture such as storage, network and 
+services [2]. 
+Cloud computing encompasses the client and server, and 
+the three primary service delivery models. The cloud client 
+comprise the software or hardware abstraction layer used 
+for connection to the cloud services. Servers are used by 
+the CSPs to provide the three primary services delivery 
+types. There are several service delivery types, but the 
+primary ones are Platform–as–a–Services (PaaS), 
+Infrastructure–as–a–Service (IaaS), and Software–as–a–
+Service (SaaS). PaaS provides a computing platform for 
+use by the consumer through the infrastructure provided by 
+a cloud service provider [3]. The user can develop, test and 
+deploy an application using a CSP’s platform. The user 
+does not have to install software required for this purpose.
+In IaaS, the CSP provides infrastructure in the form of 
+servers, storage and computing resources for the consumer.
+The advantage of this is that the user does not have to 
+invest in expensive IT infrastructure. Services are scalable 
+and on–demand. In addition, the customer utilizes and pays 
+for what is consumed. In SaaS, a CSP provides an 
+application over the Internet for use by a customer [3]. In 
+effect, the user does not have to purchase or install such 
+applications. This provides a network–based access to 
+software that is managed from a centralised location, and 
+the customer has remote access [3]. There are four types of 
+cloud development models: private, public, community 
+and hybrid clouds. Private clouds are provided within an 
+enterprise data centre. The organization has control over 
+the cloud infrastructure and it is secure. Public clouds are 
+services provided over the Internet by CSP using their own 
+infrastructure. Scalable services are accessed on a pay-as␂you-go (PAYG) payment model. Public clouds are 
+considered less secured. Community cloud is cloud 
+operated by several organizations possibly engaged in 
+similar activities. The infrastructure could be hosted by a 
+third party with an agreed policy in place for usage [3]. The 
+purpose of this paper is to discuss cloud computing 
+architecture. The paper takes a look at the primary 
+abstraction layers on which services are offered. In 
+addition, advances in the industry in terms of cloud 
+computing architecture will be highlighted. The remaining 
+part of the paper is organized as follows: Section 2 deals 
+with related work. Section 3 will focus on the main cloud 
+architecture. Section 4 discuss the industry trend in cloud 
+architecture. Section 5 concludes the paper and suggests 
+future work.
+
